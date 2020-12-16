@@ -1,0 +1,11 @@
+
+N
+java:S1874"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(‹ò€¥úÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥óµùÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(œŒì˜ýÿÿÿÿ
+I
+java:S1874"0Remove this use of "setScale"; it is deprecated.(‹ò€¥úÿÿÿÿ
+:
+java:S2111"!Use "BigDecimal.valueOf" instead.(€—úûþÿÿÿÿ
+i	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œŒì˜ýÿÿÿÿ

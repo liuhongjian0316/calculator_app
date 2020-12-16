@@ -1,0 +1,32 @@
+
+l
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 100 to the 15 allowed.(§ŒŸøÿÿÿÿ
+L
+java:S1128"3Remove this unused import 'android.os.Environment'.(É¿‹Ãûÿÿÿÿ
+:
+java:S1170"!Make this final field static too.(¼÷ƒÌøÿÿÿÿ
+0
+java:S1643"Use a StringBuilder instead.(»ïØ
+H
+java:S1066"/Merge this if statement with the enclosing one.(±¼³Šøÿÿÿÿ
+V
+java:S1128"=Remove this unused import 'android.content.ClipboardManager'.(ŠİÒ¬ùÿÿÿÿ
+L
+java:S1197"8Move the array designator from the variable to the type.(ùëãÍ
+h	java:S116"URename this field "equal_flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üÿñ
+H
+java:S1066"/Merge this if statement with the enclosing one.(±¼³Šøÿÿÿÿ
+f
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(š¦ö¼
+O	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±
+f	java:S116"NRename this field "DEG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜øŞóúÿÿÿÿ
+l
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(í÷×ûÿÿÿÿ
+H
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è
+f	java:S116"NRename this field "RAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼÷ƒÌøÿÿÿÿ
+:
+java:S1170"!Make this final field static too.(˜øŞóúÿÿÿÿ
+L
+java:S1197"8Move the array designator from the variable to the type.(ä©Ç„
+j	java:S116"WRename this field "angle_metric" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯õå­

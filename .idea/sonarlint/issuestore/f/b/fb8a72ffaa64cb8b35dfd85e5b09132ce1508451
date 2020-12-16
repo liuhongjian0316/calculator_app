@@ -1,0 +1,17 @@
+
+m
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ı°®¹
+k	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+:	java:S131""Add a default case to this switch.(Ó—íüÿÿÿÿ
+k
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(œìäøÿÿÿÿ
+p	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(’ì½‘üÿÿÿÿ
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ï¼ÅÜ
+d
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Æ¿ÚŠ
+j	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+5
+java:S1643"Use a StringBuilder instead.(úµÎ§ÿÿÿÿÿ
+@
+java:S3599",Use another way to initialize this instance.(ı°®¹

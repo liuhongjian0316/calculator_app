@@ -1,0 +1,10 @@
+
+u
+java:S3008	"_Rename this field "DEFAULT_MIN_TEXTSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‡É²
+O
+java:S1128"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(¿¶²ê
+z
+java:S3008
+"_Rename this field "DEFAULT_MAX_TEXTSIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àŒÖøýÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(´³œúÿÿÿÿ
